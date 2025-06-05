@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../weak-to-strong"
+		},
+		{
+			"path": "../../pythagoras-agi"
+		}
+	],
+	"settings": {}
+}

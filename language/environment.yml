@@ -1,0 +1,32 @@
+name: pagi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - black
+  - ipykernel
+  - matplotlib
+  - mypy
+  - pandas
+  - pip
+  - pytest
+  - anaconda::jupyter
+  - ca-certificates
+  - certifi
+  - openssl
+  - scipy
+  - numpy
+  - tiktoken
+  - tqdm
+  - transformers
+  - datasets
+  - fire
+  - accelerate
+  - torch-optimizer
+  - wandb
+  - einops
+  - pytorch
+  - torchvision
+  - torchaudio
+  - torchinfo
+prefix: /home/abhmul/miniforge3/envs/pagi
